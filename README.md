@@ -34,6 +34,7 @@ Enter your monthly budget: ₹1000
 1. Add Expense
 2. Show All Expenses
 3. Exit
+
 Choose: 1
 Category: Food
 Note: Lunch with friends

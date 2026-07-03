@@ -12,7 +12,6 @@ A simple **Java-based console application** that allows users to manage their da
 - ✅ View all added expenses and total spent
 - ✅ Simple CLI menu for interaction
 
-
 ---
 
 ## 🧰 Tech Stack

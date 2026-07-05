@@ -27,6 +27,7 @@ A simple **Java-based console application** that allows users to manage their da
 
 ## 📸 Screenshots
 
+
 ```
 Enter your monthly budget: ₹1000
 
